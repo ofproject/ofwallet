@@ -18,7 +18,7 @@
 ## 二、运行时启动
 
 ### 2.1 运行钱包
-ofbank为钱包运行时，启动后悔同步区块信息，默认快速同步
+ofbank为钱包运行时，启动后会同步区块信息，默认快速同步
 **命令：**
 ```
 nohup ./ofbank --maxpeers 100 --cache 128 --datadir  dataOF  --rpc --rpcaddr 127.0.0.1 --rpcport 8888 --port 30303 --rpcapi ofbank > data.log 2>&1 &
