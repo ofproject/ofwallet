@@ -1,9 +1,9 @@
 [README | English](https://github.com/ofproject/ofwallet/blob/master/README-English.md)
+
 [README | 中文 ](https://github.com/ofproject/ofwallet/blob/master/README.md)
 
 # OFBANK钱包接口说明
 
-下载地址 
 
 ## 一、 概述
 ### 1.1 技术规格
@@ -16,10 +16,8 @@
 4. 通过接口查询区块信息和交易记录
 
 ## 二、运行时启动
-### 2.1 钱包下载
 
-
-### 2.2 运行钱包
+### 2.1 运行钱包
 ofbank为钱包运行时，启动后悔同步区块信息，默认快速同步
 **命令：**
 ```
