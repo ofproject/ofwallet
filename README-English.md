@@ -1,4 +1,5 @@
 [README | 中文 ](https://github.com/ofproject/ofwallet/blob/master/README.md)
+
 [README | English](https://github.com/ofproject/ofwallet/blob/master/README-English.md)
 
 # Ofbank wallet interface description
@@ -15,7 +16,7 @@ The unified external interface is developed based on HTTP1.1 protocol, with unli
 
 ## 2、Operation procedure
 ### 2.1 Running Wallet
-When ofbank runs for wallet, it starts regret synchronization block information, which is fast synchronization by default
+When ofbank runs for wallet, block information will be synchronized after startup, which is fast synchronization by default
 
 **command：**
 ```
