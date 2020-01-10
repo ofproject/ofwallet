@@ -1,3 +1,5 @@
+[README | English](https://github.com/ofproject/ofwallet/blob/master/README-English.md)
+[README | 中文 ](https://github.com/ofproject/ofwallet/blob/master/README.md)
 
 # OFBANK钱包接口说明
 
@@ -321,7 +323,7 @@ gas的价格 (gasPrice) (string)【必填】(0x48c27395000)
 ```
 参数：
 钱包地址hash值 (string)【必填】
-区块状态rm - (string)【必填】(16进制，“pending”)
+区块状态 (string)【必填】(16进制，“pending”)
 返回值：当前地址已经发送交易的nonce值 (string) (16进制)	
 请求示例：
 {
